@@ -26,6 +26,8 @@ A Chronic is a combination of 7 layers of different parts
     - leaves
     - vase
 
+<p align="center">   <img alt="Dark" src="https://static.wixstatic.com/media/0e15a6_b376a6afa69c459fb8597d712656db3e~mv2.png/v1/fill/w_360,h_664,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Personaggio_4_v3.png" width="100%"> </p>
+
 For each layer can be defined a variable number of parts, each of them identified by an unique ID. Other than defining their shape the combination of different parts set the following battle stats of the token:
 
 - var/actual THC
@@ -66,7 +68,7 @@ Finally, a Chronich can be crafted by the owner of the contract ad assinged to a
 
 The architecture is built upon 3 contracts
 
-- Chronic: a IERC721 contract that holds the Chronics data and the minting functions
+- Chronic: a IERC721 contract that holds the Chronics data
 - Breeder: a contract responsible of the random generation of the Chronics
 - Feeder: a contract with the functions related to manage the fertility of the Chronics
 
