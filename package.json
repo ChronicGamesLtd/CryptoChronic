@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.8",
+    "@nomiclabs/hardhat-truffle5": "^2.0.7",
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "@openzeppelin/contracts": "^4.8.3",
+    "csv": "^6.3.0",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3",
+    "ethereumjs-wallet": "^1.0.2",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.14.0",
+    "hardhat-gas-reporter": "^1.0.9",
+    "node-telegram-bot-api": "^0.61.0",
+    "read-excel-file": "^5.6.1",
+    "readline-sync": "^1.4.10",
+    "xlsx": "^0.18.5"
+  }
+}
