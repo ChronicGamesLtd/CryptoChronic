@@ -231,9 +231,11 @@ or go to https://https://www.cryptochronic.com/
 ## Social 
 
 Discord:   https://discord.gg/ArHNbvHMh7
+
 Twitter:   https://twitter.com/CryptoChronic1
+
 Facebook:  https://www.facebook.com/CryptoChronicCannaverse/
 
 ## License
 
-Distributed under the MIT License. See LICENSE for more information.
+See LICENSE for more information.
