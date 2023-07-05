@@ -1,4 +1,4 @@
-# CryptoChronic v0.10
+# CryptoChronic v1.0
 
 CryptoChronic is a multi-platform video-game, built upon and evolving around non-fungible (ERC721) tokens called "Chronics" that represents toonish minions composed by marijuana strains.
 
