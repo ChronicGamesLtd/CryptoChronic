@@ -26,7 +26,7 @@ A Chronic is a combination of 7 layers of different parts
     - leaves
     - vase
 
-<p align="center">   <img alt="Dark" src="https://static.wixstatic.com/media/0e15a6_b376a6afa69c459fb8597d712656db3e~mv2.png/v1/fill/w_360,h_664,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Personaggio_4_v3.png" width="100%"> </p>
+<p align="center">   <img alt="Dark" src="https://static.wixstatic.com/media/0e15a6_b376a6afa69c459fb8597d712656db3e~mv2.png/v1/fill/w_360,h_664,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Personaggio_4_v3.png" width="50%" height="50%"> </p>
 
 For each layer can be defined a variable number of parts, each of them identified by an unique ID. Other than defining their shape the combination of different parts set the following battle stats of the token:
 
